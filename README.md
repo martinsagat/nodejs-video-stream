@@ -3,7 +3,7 @@
 Make sure you have Node.js installed on your localhost.
 
 
-## 🚀 Building and Running for Production
+## 🚀 Running the application
 
 1. Start server and access from browser http://localhost:8000
 
